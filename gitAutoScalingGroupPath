@@ -1,0 +1,3 @@
+template-file-path: autoscalingTemplate.yaml
+parameters: {}
+tags: {}
